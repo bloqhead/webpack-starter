@@ -69,6 +69,9 @@
 
 //js/app.js
 
+// Require styles
+__webpack_require__(2)
+
 // Require scripts
 __webpack_require__(1)
 
@@ -83,6 +86,12 @@ __webpack_require__(1)
 
 console.log("webpack is cool")
 
+
+/***/ }),
+/* 2 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
 
 /***/ })
 /******/ ]);

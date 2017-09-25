@@ -1,5 +1,8 @@
 //js/app.js
 
+// Require styles
+require('./../scss/main.scss')
+
 // Require scripts
 require('./scripts')
 

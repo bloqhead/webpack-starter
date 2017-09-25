@@ -1,7 +1,12 @@
-//scss/main.scss
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+}
 
 main {
 	max-width: 960px;
 	margin: 0 auto;
 	padding: 1em;
+  background: red;
+  color: white;
 }
